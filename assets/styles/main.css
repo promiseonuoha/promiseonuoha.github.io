@@ -543,14 +543,14 @@ button,
   margin: 0 0 15px;
 }
 
-.w-form-done {
+.contact-form-done {
   text-align: center;
   background-color: #ddd;
   padding: 20px;
   display: none;
 }
 
-.w-form-fail {
+.contact-form-fail {
   background-color: #ffdede;
   margin-top: 10px;
   padding: 10px;
